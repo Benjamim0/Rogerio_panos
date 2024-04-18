@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.nav_bar {
+    display: flex;
+    justify-content: space-between;
+    margin: 12px;
+    padding: 6px;
+}
+
+.nav_ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+   
+}
+
+.nav_inicio , .nav_sobre , .nav_contatos {
+    padding: auto;
+    margin: 2px; 
+}
